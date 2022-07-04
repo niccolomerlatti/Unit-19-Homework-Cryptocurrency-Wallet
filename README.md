@@ -111,7 +111,10 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ---
 
 ## Submission
-![An image shows a wallet with bitcoin.](1.png)
+![alt=""](Images/1.png)
+![alt=""](Images/2.png)
+![alt=""](Images/3.png)
+![alt=""](Images/4.png)
 
 * Upload the files for this assignment to your GitHub repository.
 
